@@ -13,7 +13,7 @@
             TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
             
 ----------------------------------------------
-2. Send to 10k to this address
+2. Send to this address
    
 ✔  (TRC20) 
 
